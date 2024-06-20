@@ -5,7 +5,7 @@
 <br>
 
 # mojonet
-The world's first PyTorch Neural Network wrapper to help transition existing projects into the Mojo programming language.
+PyTorch Neural Network wrapper to help transition existing projects into the Mojo programming language.
 
 ## Install
 ```bash
