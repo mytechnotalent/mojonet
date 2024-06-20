@@ -7,6 +7,9 @@
 # mojonet
 The world's first simple PyTorch Neural Network wrapper written in the Mojo programming language for all AI developers.
 
+## Goal
+### The goal of this project to to help those with existing PyTorch projects the ability to convert them to the Mojo programming language.
+
 ## Install
 ```bash
 ./install
