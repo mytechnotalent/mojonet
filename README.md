@@ -7,5 +7,25 @@
 # mojonet
 The world's first Neural Network written in the Mojo programming language for all AI developers.
 
+## Install
+```bash
+./install
+```
+
+## Build
+```bash
+./build
+```
+
+## Train
+```bash
+./train
+```
+
+## Inference
+```bash
+./inference
+```
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
