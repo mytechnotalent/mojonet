@@ -5,7 +5,7 @@
 <br>
 
 # mojonet
-The world's first Neural Network written in the Mojo programming language for all AI developers.
+The world's first simple PyTorch Neural Network wrapper written in the Mojo programming language for all AI developers.
 
 ## Install
 ```bash
