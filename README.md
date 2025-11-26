@@ -7,30 +7,42 @@
 # mojonet
 PyTorch Neural Network wrapper to help transition existing projects into the Mojo programming language.
 
-## Install
+<br>
+
+# Install
 ```bash
 ./install
 ```
 
-## Build
+<br>
+
+# Build
 ```bash
 ./build
 ```
 
-## Train
+<br>
+
+# Train
 ```bash
 ./train
 ```
 
-## Inference
+<br>
+
+# Inference
 ```bash
 ./inference
 ```
 
-## Test
+<br>
+
+# Test
 ```bash
 ./test.sh
 ```
 
-## License
+<br>
+
+# License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
